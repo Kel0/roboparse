@@ -8,7 +8,7 @@ Go to the `example` directory.
 ## Installation
 * **Via pip**
 ```shell
-pip install roboparser
+pip install roboparse
 ```
 
 * **Via git** 
