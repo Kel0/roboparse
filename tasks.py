@@ -4,7 +4,7 @@ from pathlib import Path
 
 
 PACKAGE = "roboparse"
-REQUIRED_COVERAGE = 90
+REQUIRED_COVERAGE = 78
 BASE_DIR = Path(__file__).resolve().parent
 
 
@@ -49,6 +49,12 @@ def makemigrations(arg, message):
 @invoke.task
 def migrate(arg):
     arg.run(f"cd {BASE_DIR} && alembic upgrade head", echo=True)
+
+
+@invoke.task
+def release(arg):
+    arg.run("python -m build")
+    arg.run("python -m twine upload --repository pypi dist/*")
 
 
 @invoke.task

@@ -1,10 +1,13 @@
+import json
 from typing import Dict, Union
 
+from .filters import FilterFactory, FilterMetaClass
 from .schemas import RouterLinter, RouterResponse
 
 
-class BaseRouter:
+class BaseRouter(metaclass=FilterMetaClass):
     def __init__(self, username: Union[str, int], password: Union[str, int]) -> None:
+        self.filters = FilterFactory()
         self.username = username
         self.password = password
 
@@ -18,12 +21,31 @@ class BaseRouter:
             tag=linter["tag"],  # type: ignore
             attrs=linter["attrs"],  # type: ignore
         )
-        _linters = self._process_children(linter.get("children"), rt)
+        _linter = self._process_children(linter.get("children"), rt)
 
         return RouterResponse(
             path=path,
-            linter=_linters,
+            linter=_linter,
         )
+
+    def create_router_response_from_json(self, path):
+        with open(path, "r") as f:
+            conf = json.load(f)
+
+        if not isinstance(conf, dict):
+            raise ValueError
+
+        if conf.get("linter") is None:
+            raise ValueError
+
+        rt = RouterLinter(
+            type=conf["linter"]["type"],  # type: ignore
+            tag=conf["linter"]["tag"],  # type: ignore
+            attrs=conf["linter"]["attrs"],  # type: ignore
+        )
+        _linter = self._process_children(conf["linter"].get("children"), rt)
+
+        return RouterResponse(path=conf["path"], linter=_linter)
 
     def _process_children(self, linter, element: RouterLinter, counter=0):
         if linter is None:

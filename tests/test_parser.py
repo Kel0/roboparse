@@ -7,7 +7,7 @@ from roboparse import Parser
 def parser() -> Parser:
     return Parser()
 
-
+ 
 def test_parser(router, parser, helpers):
     html = helpers.get_html("samples/html_sample.txt")
 
