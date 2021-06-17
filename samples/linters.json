@@ -1,0 +1,18 @@
+{
+  "path": "<site>",
+  "linter": {
+      "type": "LIST",
+      "tag": "li",
+      "attrs": {"class": "content-list__item"},
+      "children": {
+          "type": "ELEMENT",
+          "tag": "h2",
+          "attrs": {"class": "post__title"},
+          "children": {
+              "type": "ELEMENT",
+              "tag": "a",
+              "attrs": {"class": "post__title_link"}
+          }
+      }
+  }
+}

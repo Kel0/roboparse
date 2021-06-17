@@ -6,7 +6,12 @@ import requests
 from roboparse import Parser, BaseRouter
 
 
-class HabrRouter(BaseRouter):
+class HabrFilters:
+    def _fb_sort_data(self, data):
+        return [element for element in data if element is not None]
+
+
+class HabrRouter(BaseRouter, HabrFilters):
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
 
@@ -64,9 +69,7 @@ def scrape_news():
                 "Chrome/86.0.4240.111 Safari/537.36"
             )
         })
-        print(html.text)
-        data = parser.load(html.content, router.get_news())
-        data = [element for element in data if element is not None]  # Removing unnecessary elements
+        data = parser.load(html.content, router.get_news(), router.filters)
         write_csv(data)
 
 

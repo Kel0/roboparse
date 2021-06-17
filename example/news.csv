@@ -1,84 +1,42 @@
 Title,Link
-"Как я хотел поработать нативным Android разработчиком, но устроился Flutter разрабом",https://habr.com/ru/post/559228/
-"Good vs. Well, или Гайд о прилагательных и наречиях в английском языке",https://habr.com/ru/company/englishdom/blog/559100/
-Процессорам Alder Lake от Intel понадобятся новые системы охлаждения и материнские платы,https://habr.com/ru/company/selectel/blog/555948/
-Deepfake. Реализация технологии замены лиц в видео. Часть 1,https://habr.com/ru/post/559220/
-«Главное – мотивированность и настойчивость»: как в Deutsche Telekom IT Solutions растят своих специалистов,https://habr.com/ru/company/deutschetelekomitsolutions/blog/559214/
-Как баг с потерянными днями рождения привёл нас в историю СССР,https://habr.com/ru/post/559212/
-Как превратиться в суперзвезду Zoom-звонков за 15 минут. Часть 2. Софт,https://habr.com/ru/company/wrike/blog/558070/
-Создание функции губки из MD5,https://habr.com/ru/company/otus/blog/559210/
-"Рояль над котиком, день первый",https://habr.com/ru/company/ruvds/blog/559148/
-Анонсирование HAProxy Kubernetes Ingress Controller 1.5,https://habr.com/ru/company/otus/blog/559170/
-fork() — зло; vfork() — добро; afork() — лучше; clone () — глупо,https://habr.com/ru/company/otus/blog/559176/
-Microsoft Build 2021 — прямая трансляция на русском языке (начало в 18:45 МСК),https://habr.com/ru/company/microsoft/blog/559174/
-Дистанционная (удалённая) работа IT-специалистов: существенные условия трудового договора,https://habr.com/ru/post/559146/
-"KeyClusterer 2.3 — Многопоточность, интеграция с Key Collector",https://habr.com/ru/post/559050/
-Антарктический ад: как в атмосфере Земли 430000 лет назад взорвался метеорит,https://habr.com/ru/company/selectel/blog/555824/
-Интеграция Shopify и MailChimp,https://habr.com/ru/post/559160/
-Figma: плагины для продуктового дизайна. Локальный топчик с видео-инструкцией,https://habr.com/ru/company/ozontech/blog/557178/
-"Разработка Computer Vision в онкологии: почему всегда нужно еще больше сил, времени и денег",https://habr.com/ru/company/celsus/blog/559150/
-5 приемов по разделению «бандла» и «ленивой» загрузке компонентов в React,https://habr.com/ru/company/macloud/blog/559108/
-Как мы превратили задание для найма тестировщиков в интерактив для конференции и читателей «Хабра»,https://habr.com/ru/company/aliexpress_russia/blog/559126/
+Барахолка для Пентестера,https://habr.com/ru/company/otus/blog/563296/
+SpaceShooter на Phaser 3,https://habr.com/ru/post/563294/
+Тайна списка шумерских царей. Часть 1. Машина времени,https://habr.com/ru/post/562898/
+"PHP-Compiler, или ныряем в кроличью нору FFI",https://habr.com/ru/company/oleg-bunin/blog/560788/
+Управляем звуком ПК от активности пользователя с помощью Python,https://habr.com/ru/post/563124/
+"JetBrains Academy: платформенные обновления, любимые проекты пользователей и годовая подписка",https://habr.com/ru/company/JetBrains/blog/563166/
+"Как мы построили Computer Vision из подручных материалов, чтобы сделать гифки",https://habr.com/ru/company/uchi_ru/blog/563010/
+Рыдания ретрофаната над старым телевизором,https://habr.com/ru/company/kaspersky/blog/563178/
+Meet StoreKit 2,https://habr.com/ru/post/563280/
+"Пятый, он же Южный. История о младшем из океанов",https://habr.com/ru/company/vdsina/blog/562596/
+Сколько stablecoins находится в обороте?,https://habr.com/ru/post/563276/
+Развлечения с парсингом IP-адресов,https://habr.com/ru/company/timeweb/blog/563274/
+RTX 3080 для ноутбуков — насколько это реально RTX 3080?,https://habr.com/ru/company/pixonic/blog/563270/
+"Я не Бог, не оракул и не гугл. Менторство глазами ментора и менти",https://habr.com/ru/company/skillfactory/blog/562172/
+Keychron K6. Обзор добротной механической клавиатуры,https://habr.com/ru/post/563268/
+"Мобильные подписки и «Билайн», который от них отказался, но на самом деле нет",https://habr.com/ru/post/563260/
+DataScience Digest — 17.06.21,https://habr.com/ru/post/563256/
+«Компилятор всё оптимизирует»? Ну уж нет,https://habr.com/ru/post/562620/
+Разместить FORTH в 512 байтах,https://habr.com/ru/post/563250/
+Перемешивается ли электролит в аккумуляторе при движении автомобиля?,https://habr.com/ru/company/ruvds/blog/562426/
 Title,Link
-3 способа визуального извлечения данных с помощью JavaScript,https://habr.com/ru/company/skillfactory/blog/558672/
-"Как я хотел поработать нативным Android разработчиком, но устроился Flutter разрабом",https://habr.com/ru/post/559228/
-"Good vs. Well, или Гайд о прилагательных и наречиях в английском языке",https://habr.com/ru/company/englishdom/blog/559100/
-Процессорам Alder Lake от Intel понадобятся новые системы охлаждения и материнские платы,https://habr.com/ru/company/selectel/blog/555948/
-Deepfake. Реализация технологии замены лиц в видео. Часть 1,https://habr.com/ru/post/559220/
-«Главное – мотивированность и настойчивость»: как в Deutsche Telekom IT Solutions растят своих специалистов,https://habr.com/ru/company/deutschetelekomitsolutions/blog/559214/
-Как баг с потерянными днями рождения привёл нас в историю СССР,https://habr.com/ru/post/559212/
-Как превратиться в суперзвезду Zoom-звонков за 15 минут. Часть 2. Софт,https://habr.com/ru/company/wrike/blog/558070/
-Создание функции губки из MD5,https://habr.com/ru/company/otus/blog/559210/
-"Рояль над котиком, день первый",https://habr.com/ru/company/ruvds/blog/559148/
-Анонсирование HAProxy Kubernetes Ingress Controller 1.5,https://habr.com/ru/company/otus/blog/559170/
-fork() — зло; vfork() — добро; afork() — лучше; clone () — глупо,https://habr.com/ru/company/otus/blog/559176/
-Microsoft Build 2021 — прямая трансляция на русском языке (начало в 18:45 МСК),https://habr.com/ru/company/microsoft/blog/559174/
-Дистанционная (удалённая) работа IT-специалистов: существенные условия трудового договора,https://habr.com/ru/post/559146/
-"KeyClusterer 2.3 — Многопоточность, интеграция с Key Collector",https://habr.com/ru/post/559050/
-Антарктический ад: как в атмосфере Земли 430000 лет назад взорвался метеорит,https://habr.com/ru/company/selectel/blog/555824/
-Интеграция Shopify и MailChimp,https://habr.com/ru/post/559160/
-Figma: плагины для продуктового дизайна. Локальный топчик с видео-инструкцией,https://habr.com/ru/company/ozontech/blog/557178/
-"Разработка Computer Vision в онкологии: почему всегда нужно еще больше сил, времени и денег",https://habr.com/ru/company/celsus/blog/559150/
-5 приемов по разделению «бандла» и «ленивой» загрузке компонентов в React,https://habr.com/ru/company/macloud/blog/559108/
-Title,Link
-3 способа визуального извлечения данных с помощью JavaScript,https://habr.com/ru/company/skillfactory/blog/558672/
-"Как я хотел поработать нативным Android разработчиком, но устроился Flutter разрабом",https://habr.com/ru/post/559228/
-"Good vs. Well, или Гайд о прилагательных и наречиях в английском языке",https://habr.com/ru/company/englishdom/blog/559100/
-Процессорам Alder Lake от Intel понадобятся новые системы охлаждения и материнские платы,https://habr.com/ru/company/selectel/blog/555948/
-Deepfake. Реализация технологии замены лиц в видео. Часть 1,https://habr.com/ru/post/559220/
-«Главное – мотивированность и настойчивость»: как в Deutsche Telekom IT Solutions растят своих специалистов,https://habr.com/ru/company/deutschetelekomitsolutions/blog/559214/
-Как баг с потерянными днями рождения привёл нас в историю СССР,https://habr.com/ru/post/559212/
-Как превратиться в суперзвезду Zoom-звонков за 15 минут. Часть 2. Софт,https://habr.com/ru/company/wrike/blog/558070/
-Создание функции губки из MD5,https://habr.com/ru/company/otus/blog/559210/
-"Рояль над котиком, день первый",https://habr.com/ru/company/ruvds/blog/559148/
-Анонсирование HAProxy Kubernetes Ingress Controller 1.5,https://habr.com/ru/company/otus/blog/559170/
-fork() — зло; vfork() — добро; afork() — лучше; clone () — глупо,https://habr.com/ru/company/otus/blog/559176/
-Microsoft Build 2021 — прямая трансляция на русском языке (начало в 18:45 МСК),https://habr.com/ru/company/microsoft/blog/559174/
-Дистанционная (удалённая) работа IT-специалистов: существенные условия трудового договора,https://habr.com/ru/post/559146/
-"KeyClusterer 2.3 — Многопоточность, интеграция с Key Collector",https://habr.com/ru/post/559050/
-Антарктический ад: как в атмосфере Земли 430000 лет назад взорвался метеорит,https://habr.com/ru/company/selectel/blog/555824/
-Интеграция Shopify и MailChimp,https://habr.com/ru/post/559160/
-Figma: плагины для продуктового дизайна. Локальный топчик с видео-инструкцией,https://habr.com/ru/company/ozontech/blog/557178/
-"Разработка Computer Vision в онкологии: почему всегда нужно еще больше сил, времени и денег",https://habr.com/ru/company/celsus/blog/559150/
-5 приемов по разделению «бандла» и «ленивой» загрузке компонентов в React,https://habr.com/ru/company/macloud/blog/559108/
-Title,Link
-3 способа визуального извлечения данных с помощью JavaScript,https://habr.com/ru/company/skillfactory/blog/558672/
-"Как я хотел поработать нативным Android разработчиком, но устроился Flutter разрабом",https://habr.com/ru/post/559228/
-"Good vs. Well, или Гайд о прилагательных и наречиях в английском языке",https://habr.com/ru/company/englishdom/blog/559100/
-Процессорам Alder Lake от Intel понадобятся новые системы охлаждения и материнские платы,https://habr.com/ru/company/selectel/blog/555948/
-Deepfake. Реализация технологии замены лиц в видео. Часть 1,https://habr.com/ru/post/559220/
-«Главное – мотивированность и настойчивость»: как в Deutsche Telekom IT Solutions растят своих специалистов,https://habr.com/ru/company/deutschetelekomitsolutions/blog/559214/
-Как баг с потерянными днями рождения привёл нас в историю СССР,https://habr.com/ru/post/559212/
-Как превратиться в суперзвезду Zoom-звонков за 15 минут. Часть 2. Софт,https://habr.com/ru/company/wrike/blog/558070/
-Создание функции губки из MD5,https://habr.com/ru/company/otus/blog/559210/
-"Рояль над котиком, день первый",https://habr.com/ru/company/ruvds/blog/559148/
-Анонсирование HAProxy Kubernetes Ingress Controller 1.5,https://habr.com/ru/company/otus/blog/559170/
-fork() — зло; vfork() — добро; afork() — лучше; clone () — глупо,https://habr.com/ru/company/otus/blog/559176/
-Microsoft Build 2021 — прямая трансляция на русском языке (начало в 18:45 МСК),https://habr.com/ru/company/microsoft/blog/559174/
-Дистанционная (удалённая) работа IT-специалистов: существенные условия трудового договора,https://habr.com/ru/post/559146/
-"KeyClusterer 2.3 — Многопоточность, интеграция с Key Collector",https://habr.com/ru/post/559050/
-Антарктический ад: как в атмосфере Земли 430000 лет назад взорвался метеорит,https://habr.com/ru/company/selectel/blog/555824/
-Интеграция Shopify и MailChimp,https://habr.com/ru/post/559160/
-Figma: плагины для продуктового дизайна. Локальный топчик с видео-инструкцией,https://habr.com/ru/company/ozontech/blog/557178/
-"Разработка Computer Vision в онкологии: почему всегда нужно еще больше сил, времени и денег",https://habr.com/ru/company/celsus/blog/559150/
-5 приемов по разделению «бандла» и «ленивой» загрузке компонентов в React,https://habr.com/ru/company/macloud/blog/559108/
+"Изучение экоcистемы Kubernetes в 2021 году, global modal в React и 7 сетевых команд Linux для каждого сисадмина",https://habr.com/ru/company/redhatrussia/blog/563302/
+Барахолка для Пентестера,https://habr.com/ru/company/otus/blog/563296/
+SpaceShooter на Phaser 3,https://habr.com/ru/post/563294/
+Тайна списка шумерских царей. Часть 1. Машина времени,https://habr.com/ru/post/562898/
+"PHP-Compiler, или ныряем в кроличью нору FFI",https://habr.com/ru/company/oleg-bunin/blog/560788/
+Управляем звуком ПК от активности пользователя с помощью Python,https://habr.com/ru/post/563124/
+"JetBrains Academy: платформенные обновления, любимые проекты пользователей и годовая подписка",https://habr.com/ru/company/JetBrains/blog/563166/
+"Как мы построили Computer Vision из подручных материалов, чтобы сделать гифки",https://habr.com/ru/company/uchi_ru/blog/563010/
+Рыдания ретрофаната над старым телевизором,https://habr.com/ru/company/kaspersky/blog/563178/
+Meet StoreKit 2,https://habr.com/ru/post/563280/
+"Пятый, он же Южный. История о младшем из океанов",https://habr.com/ru/company/vdsina/blog/562596/
+Сколько stablecoins находится в обороте?,https://habr.com/ru/post/563276/
+Развлечения с парсингом IP-адресов,https://habr.com/ru/company/timeweb/blog/563274/
+RTX 3080 для ноутбуков — насколько это реально RTX 3080?,https://habr.com/ru/company/pixonic/blog/563270/
+"Я не Бог, не оракул и не гугл. Менторство глазами ментора и менти",https://habr.com/ru/company/skillfactory/blog/562172/
+Keychron K6. Обзор добротной механической клавиатуры,https://habr.com/ru/post/563268/
+"Мобильные подписки и «Билайн», который от них отказался, но на самом деле нет",https://habr.com/ru/post/563260/
+DataScience Digest — 17.06.21,https://habr.com/ru/post/563256/
+«Компилятор всё оптимизирует»? Ну уж нет,https://habr.com/ru/post/562620/
+Разместить FORTH в 512 байтах,https://habr.com/ru/post/563250/

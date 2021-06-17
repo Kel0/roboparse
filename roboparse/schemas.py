@@ -1,11 +1,13 @@
 from dataclasses import dataclass
-from typing import Any, Dict, Optional
+from typing import Callable, Dict, Optional
 
 
 @dataclass
-class RouterLoop:
-    exp: str
-    value: Any
+class Filter:
+    method: Callable
+
+    def __call__(self, *args, **kwargs):
+        return self.method(*args, **kwargs)
 
 
 @dataclass
